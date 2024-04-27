@@ -1,12 +1,12 @@
 # Build settings
 
-port: 4000
+#port: 4000
 markdown:  kramdown
-permalink: /:title
+permalink: /:title.html
 plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 
-title:		   "Portfolio Jekyll Theme"
+title:		   "Gean Ramos"
 description: "Powered by Jekyll and GitHub Pages"
-author:      "Paul Le"
+author:      "Gean Ramos"
