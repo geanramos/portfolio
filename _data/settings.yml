@@ -21,10 +21,10 @@ projects:
 # Contact Section
 
 social:
+- {icon: 'fa-brands fa-facebook',  link: 'https://fb.com/geanramoss'}
 - {icon: 'fa-brands fa-twitter',   link: 'https://twitter.com/geanramos'}
 - {icon: 'fa-brands fa-instagram', link: 'https://instagram.com/geanramus'}
-- {icon: 'fa-brands fa-facebook',  link: 'https://fb.com/geanramoss'}
-- {icon: 'fa-solid fa-envelope"',  link: 'mailto:mailto:geanramus@gmail.com'}
+- {icon: 'fa-solid fa-cake-candles', link: 'https://gean.me/home.php'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 
