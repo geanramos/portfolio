@@ -2,7 +2,7 @@
 # General Site Settings
 
 menu:
-- {name: 'Projects', url: ''}
+- {name: 'Projetos', url: ''}
 - {name: 'Blog',     url: 'blog'}
 - {name: 'Sobre',    url: 'about'}
 - {name: 'Contato',  url: 'contact'}
