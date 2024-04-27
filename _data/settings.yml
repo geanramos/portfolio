@@ -56,5 +56,5 @@ google-analytics-ua: 'UA-112060364-3'
 
 # Change to true for Disqus comments
 disqus:
-  comments: true #false
+  comments: false #true
   disqus_shortname: 'geanramos'
