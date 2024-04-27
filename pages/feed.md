@@ -4,7 +4,8 @@ title: Feed RSS
 permalink: /feed
 ---
 
-![enter image description here](https://belenos.me/assets/img/paper-airplane.webp)
+<img src="https://belenos.me/assets/img/paper-airplane.webp" alt="Feed RSS" style=" max-width: 99%; ">
+
 O  **RSS**  é um protocolo simples que permite seguir o conteúdo de um determinado site e receber automaticamente todas as novas publicações através de um agregador de  _feeds_. Conheça abaixo os métodos para receber os novos tutoriais, dicas, reviews e notícias do blog.
 
 ## Siga no Feedly
