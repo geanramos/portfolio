@@ -3,12 +3,11 @@ layout: post
 title: "Bolo de chocolate com café"
 ---
 
-# Bolo de chocolate com café
+![](/assets/img/bolo-de-chocolate-com-cafe.jpeg)
 
-50min 
-15 porções
+50min - 15 porções
 
-## Ingredientes da massa
+#### Ingredientes da massa
 
 -   3 ovos
 -   1 e 1/2 xícaras de chá de açúcar
@@ -19,14 +18,14 @@ title: "Bolo de chocolate com café"
 -   2 xícaras de chá de farinha de trigo
 -   1 colher de sopa de fermento químico em pó (fermento para bolo)
 
-## Ingredientes da cobertura
+#### Ingredientes da cobertura
 
 -   1 caixinha de creme de leite (200 gramas)
 -   3 colheres de sopa (rasas) de manteiga
 -   3 colheres de sopa de achocolatado
 -   3 colheres de sopa de açúcar
 
-## Modo de preparo
+#### Modo de preparo
 
 1.  Reúna todos os ingredientes;
 2.  Em um recipiente, coloque os ovos, o açúcar e misture;
