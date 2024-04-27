@@ -35,8 +35,8 @@ social:
 
 seo:
   description: 'Personal portfolio powered by Jekyll and GitHub Pages '
-  rel-author: 'https://plus.google.com/u/0/#'
-  rel-publisher: 'https://plus.google.com/u/0/#'
+  rel-author: 'https://dev.geanramos.com.br/portfolio-jekyll-theme/about'
+  rel-publisher: 'https://dev.geanramos.com.br/portfolio-jekyll-theme/blog'
 
 #-------------------------------
 # Google Analytics Section
