@@ -3,7 +3,7 @@ layout: post
 title: "Bolo de chocolate com café"
 ---
 
-![](/assets/img/bolo-de-chocolate-com-cafe.jpeg)
+![](./assets/img/bolo-de-chocolate-com-cafe.jpeg)
 
 50min - 15 porções
 
