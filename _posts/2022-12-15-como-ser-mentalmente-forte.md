@@ -3,7 +3,7 @@ layout: post
 title: "Como ser mentalmente forte?"
 ---
 
-![Como ser mentalmente forte?](https://i1.wp.com/vogazeta.ru/uploads/full_size_1576768401-fe511366824956c48335aa616c80c9b7.jpg?resize=400,225)
+![Como ser mentalmente forte?](https://i1.wp.com/vogazeta.ru/uploads/full_size_1576768401-fe511366824956c48335aa616c80c9b7.jpg?resize=600,337)
 
  1. Não tenha medo de passar tempo sozinho(a)
  2. Não viva no passado

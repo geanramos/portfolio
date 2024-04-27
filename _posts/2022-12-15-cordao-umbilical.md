@@ -5,7 +5,7 @@ title: "O que aconteceria com o recém-nascido?"
 
 > Se o cordão umbilical não fosse cortado, o que aconteceria com o recém-nascido?
 
-![](https://i1.wp.com/qph.cf2.quoracdn.net/main-qimg-12e0912c7b9c1e286c678a3826f3f2b7-lq?resize=400,225)
+![](https://i1.wp.com/qph.cf2.quoracdn.net/main-qimg-12e0912c7b9c1e286c678a3826f3f2b7-lq?resize=600,337)
 
 O **cordão umbilical** está preso à placenta que alimentou o bebê e, quando tudo vai bem, é expelido alguns minutos após o nascimento do bebê.
 

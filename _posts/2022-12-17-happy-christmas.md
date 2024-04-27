@@ -5,7 +5,7 @@ title: "happy christmas"
 
 Por que Feliz Natal em inglês é Merry Christmas e não Happy Christmas?
 
-![enter image description here](https://img.freepik.com/vetores-premium/banner-de-natal-do-fofo-personagem-de-natal-papai-noel-e-amigo-feliz-natal-e-feliz-ano-novo_68971-1702.jpg?w=400)
+![enter image description here](https://img.freepik.com/vetores-premium/banner-de-natal-do-fofo-personagem-de-natal-papai-noel-e-amigo-feliz-natal-e-feliz-ano-novo_68971-1702.jpg?w=600)
 
 Eu vi esse questionamento no [Twitter](#twitter) e achei muito interessante a resposta desse professor de inglês, chamado [Fábio Emerim](#).
 

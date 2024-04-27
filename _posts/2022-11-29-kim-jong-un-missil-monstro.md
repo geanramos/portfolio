@@ -3,7 +3,7 @@ layout: post
 title: "Kim Jong Un, o mais poderoso do mundo"
 ---
 
-![](https://i1.wp.com/i3.cmail19.com/ei/t/DD/E83/BCA/150831/csfinal/16696447166384c1ac1a886_1669644716_3x2_rt-990000079e04513c.jpg?resize=400,225)
+![](https://i1.wp.com/i3.cmail19.com/ei/t/DD/E83/BCA/150831/csfinal/16696447166384c1ac1a886_1669644716_3x2_rt-990000079e04513c.jpg?resize=600,337)
 
 Ao comemorar o lançamento de seu mais novo míssil balístico
 

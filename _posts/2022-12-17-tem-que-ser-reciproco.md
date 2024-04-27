@@ -3,7 +3,7 @@ layout: post
 title: "Tudo tem que ser recíproco"
 ---
 
-![enter image description here](https://i1.wp.com/qph.cf2.quoracdn.net/main-qimg-3d36877267e7d522f061c333e18f47aa-lq?resize=400,225)
+![enter image description here](https://i1.wp.com/qph.cf2.quoracdn.net/main-qimg-3d36877267e7d522f061c333e18f47aa-lq?resize=600,337)
 
 **Há uns 6 meses atrás,** meu vizinho, pediu a senha da minha internet.
 
