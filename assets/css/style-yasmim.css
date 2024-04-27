@@ -866,7 +866,7 @@ body {
   margin-bottom: 5px;
   padding: 0px;
   font-size: 24px;
-  font-weight: 700;
+  font-weight: 400;
 }
 .blog-container .blog-unit h1 a {
   color: #000;
@@ -877,7 +877,7 @@ body {
 .blog-container .blog-unit .blog-date {
   display: block;
   font-size: 14px;
-  font-weight: 700;
+  font-weight: 300;
 }
 .image-container {
   position: relative;
