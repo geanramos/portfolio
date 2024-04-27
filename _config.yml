@@ -10,3 +10,4 @@ plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 title:		   "Gean Ramos"
 description: "Powered by Jekyll and GitHub Pages"
 author:      "Gean Ramos"
+imgcdn:         "https://i1.wp.com/geanramos.github.com/portfolio-jekyll-theme/"
