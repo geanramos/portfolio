@@ -24,8 +24,8 @@ social:
 - {icon: 'fa-brands fa-facebook',  link: 'https://fb.com/geanramoss'}
 - {icon: 'fa-brands fa-twitter',   link: 'https://twitter.com/geanramos'}
 - {icon: 'fa-brands fa-instagram', link: 'https://instagram.com/geanramus'}
-- {icon: 'fa-solid fa-bowl-hot', link: 'https://gean.me/home.php'}
-- {icon: 'fa-regular fa-face-tongue-money', link: 'https://redirect.geanramos.com/'}
+- {icon: 'fa-solid fa-bowl-rice', link: 'https://gean.me/home.php'}
+- {icon: 'fa-solid fa-sack-dollar', link: 'https://redirect.geanramos.com/'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 
