@@ -26,6 +26,7 @@ social:
 - {icon: 'linkedin',  link: 'https://linkedin.com/in/geanramos'}
 - {icon: 'envelope',  link: 'mailto:mailto:geanramus@gmail.com'}
 - {icon: 'rss',  link: './feed.xml'}
+- {icon: 'shield-halved',  link: './privacidade'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 
