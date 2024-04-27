@@ -7,4 +7,4 @@ title: "Fotos - Osaka Japão"
 
 **Osaka** também é conhecida por ter uma vida noturna agitada, e ser uma cidade com um clima mais “relax” que as outras cidades japonesas.  **Osaka**  é conhecida como a “**Sin City**” japonesa, ou seja, a  **cidade do pecado**.
 
-{% include my-gallery.html folder="osaka" %}
+
