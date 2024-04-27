@@ -21,12 +21,12 @@ projects:
 # Contact Section
 
 social:
-- {icon: 'twitter',   link: 'https://twitter.com/geanramos'}
-- {icon: 'instagram', link: 'https://instagram.com/geanramus'}
-- {icon: 'linkedin',  link: 'https://linkedin.com/in/geanramos'}
-- {icon: 'envelope',  link: 'mailto:mailto:geanramus@gmail.com'}
-- {icon: 'rss',  link: './feed.xml'}
-- {icon: 'shield-halved',  link: './privacidade'}
+- {icon: 'fa-brands fa-twitter',   link: 'https://twitter.com/geanramos'}
+- {icon: 'fa-brands fa-instagram', link: 'https://instagram.com/geanramus'}
+- {icon: 'fa-brands fa-facebook',  link: 'https://fb.com/geanramoss'}
+- {icon: 'fa-solid fa-envelope"',  link: 'mailto:mailto:geanramus@gmail.com'}
+- {icon: 'fa-solid fa-rss',  link: './feed.xml'}
+- {icon: 'fa-solid fa-shield-halved',  link: './privacidade'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 
