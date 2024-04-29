@@ -4,7 +4,7 @@ title: Privacidade
 permalink: /privacidade
 ---
 
-Este site faz o uso do  [Google Analytics](https://analytics.google.com/analytics/web/)  e  [Google Search Console](https://search.google.com/search-console/). Estes serviços usam cookies que coletam informações anônimas sobre os visitantes do site, incluindo número de visitantes, origem dos visitantes, sistemas operacionais usados, resolução de tela e quais páginas foram acessadas. O Google pode armazenar estes dados de perfil de visitantes por até 14 meses.
+Este site faz o uso do  [Google Analytics](https://analytics.google.com/analytics/web/)  e  [Google AdSense](https://adsense.google.com/intl/pt-BR_br/start/). Estes serviços usam cookies que coletam informações anônimas sobre os visitantes do site, incluindo número de visitantes, origem dos visitantes, sistemas operacionais usados, resolução de tela e quais páginas foram acessadas. O Google pode armazenar estes dados de perfil de visitantes por até 14 meses.
 
 Estas informações são usadas para melhorar o conteúdo deste site e a forma como o mesmo é mostrado aos seus visitantes. Nenhum dado é repassado para terceiros, mas algumas informações podem ser usadas para gerar conteúdo publicitário direcionado aos visitantes deste domínio.
 
