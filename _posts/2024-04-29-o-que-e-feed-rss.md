@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Parse – Objetos na nuvem"
+title: "O que é Feed RSS?"
 ---
 
 **RSS** significa **Really Simple Syndication** ou **Rich Site Summary**, que em português podemos traduzir como **Sindicção Realmente Simples** ou **Resumo Detalhado do Site**. É um formato de arquivo utilizado para distribuir conteúdo na internet, como notícias, atualizações de blogs e podcasts.
