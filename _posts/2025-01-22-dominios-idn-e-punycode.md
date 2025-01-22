@@ -47,6 +47,8 @@ Essa flexibilidade permite o uso pleno de domínios internacionalizados em difer
 
 Para registrar um domínio IDN, é necessário verificar se o registrador (como o Registro.br) oferece suporte a domínios internacionalizados. Você pode registrar tanto o formato Unicode quanto o Punycode, pois eles funcionam de forma intercambiável.
 
+Este site inspirou-me este artigo. [free web hosting](https://freewebhostingarea.com/)
+
 ### Considerações Finais
 
 Os domínios IDN e o sistema Punycode expandem as possibilidades de representação online, permitindo que a web seja um espaço verdadeiramente global. Desde o uso de caracteres acentuados em nomes de domínios até a inclusão de alfabetos inteiramente diferentes, o futuro dos IDNs aponta para uma web mais inclusiva e conectada com a diversidade cultural mundial.
