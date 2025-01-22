@@ -33,13 +33,13 @@ Quando um usuário digita o domínio com caracteres especiais, o navegador conve
 2.  **Domínio com Acentos:**
     
     -   Nome: **[www.ação.com.br](http://www.ação.com.br)**
-    -   Punycode: **[ www.xn--ao-via.com](http://www.xn–ao-via.com)**
+    -   Punycode: **[ xn--ao-siap.com.br](http://wxn--ao-siap.com.br)**
 
 ### É Possível Usar Domínios IDN em Recursos Específicos?
 
 Sim! Você pode usar um domínio IDN, incluindo seu formato Punycode, para hospedar conteúdos como páginas, arquivos de vídeo e outros recursos. Por exemplo:
 
--   Um arquivo hospedado em **[ www.xn--ao-via.com/embed/video1.mp4](http://www.ge%C3%A3nramos.com.br/embed/video1.mp4)** seria acessível também via **[https:// www.xn--ao-via.com/embed/video1.mp4](https://www.xn--genramos-y7a.com.br/embed/video1.mp4)**.
+-   Um arquivo hospedado em **[www.ação.com.br/embed/video1.mp4](http://www.xn--ao-siap.com.br/embed/video1.mp4)** seria acessível também via **[https://www.xn--ao-siap.com.br/embed/video1.mp4](https://www.xn--ao-siap.br/embed/video1.mp4)**.
 
 Essa flexibilidade permite o uso pleno de domínios internacionalizados em diferentes plataformas.
 
@@ -47,10 +47,10 @@ Essa flexibilidade permite o uso pleno de domínios internacionalizados em difer
 
 Para registrar um domínio IDN, é necessário verificar se o registrador (como o Registro.br) oferece suporte a domínios internacionalizados. Você pode registrar tanto o formato Unicode quanto o Punycode, pois eles funcionam de forma intercambiável.
 
-Este site inspirou-me este artigo. [free web hosting](https://freewebhostingarea.com/)
-
 ### Considerações Finais
 
 Os domínios IDN e o sistema Punycode expandem as possibilidades de representação online, permitindo que a web seja um espaço verdadeiramente global. Desde o uso de caracteres acentuados em nomes de domínios até a inclusão de alfabetos inteiramente diferentes, o futuro dos IDNs aponta para uma web mais inclusiva e conectada com a diversidade cultural mundial.
 
 Se você tem um domínio tradicional e quer explorar as opções IDN, essa é uma excelente oportunidade para destacar sua identidade cultural na internet!
+
+Este site inspirou-me este artigo. [free web hosting](https://freewebhostingarea.com/)
